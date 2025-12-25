@@ -10,7 +10,7 @@ This repository contains practical implementations of fundamental concepts in Ar
 
 ## 📂 Project 1: Romania Route Optimization (Search)
 
-![Romania Map Graph](assets/romania_map.png)
+![Romania Map Graph](romania-search-algorithms/romenian_map.png)
 
 Solving the classic "Romania Map Problem" (Russell & Norvig) to find the most efficient path between cities (Arad to Bucharest) using heuristic search strategies.
 
